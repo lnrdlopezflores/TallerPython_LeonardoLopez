@@ -18,7 +18,7 @@ if __name__ == "__main__":
             print("Por favor, ingresa un número dentro del rango (1-100).")
             continue
 
-        intentos += 1
+        intentos += 1 
 
         if intento < num:
             print("El número es mayor. ¡Sigue intentando!")
