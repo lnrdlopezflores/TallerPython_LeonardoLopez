@@ -1,0 +1,16 @@
+{
+  "personas": [
+    {
+      "nombre": "leo",
+      "edad": 25,
+      "ciudad" : "san martin texmelucan",
+      "estado" : "puebla"
+    },
+    {
+      "nombre": "pedro",
+      "edad": 30,
+      "ciudad" : "mazatlan",
+      "estado" : "sinaloa"
+    }
+  ]
+}
