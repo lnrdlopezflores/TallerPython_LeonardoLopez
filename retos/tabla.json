@@ -1,0 +1,19 @@
+{
+    "tabla": [
+        {
+          "id": 1, "Nombre": "Juan Pérez", "Edad": 25, "RFC": "JUPE250101XXX"
+        },
+        {
+          "id": 2, "Nombre": "Ana Gómez", "Edad": 17, "RFC": "ANGO070101XXX"
+        },
+        {
+          "id": 3, "Nombre": "Carlos López", "Edad": 30, "RFC": "CALO940101XXX"
+        },
+        {
+          "id": 4, "Nombre": "María Ruiz", "Edad": 15, "RFC": "MARU090101XXX"
+        },
+        {
+          "id": 5, "Nombre": "Pedro Sánchez", "Edad": 21, "RFC": "PESA030101XXX"
+        }
+    ]
+}
