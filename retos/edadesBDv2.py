@@ -64,7 +64,7 @@ def imprimir_tabla(tabla):
 
 
 if __name__ == "__main__":
-    archivo = "tablaa.json"
+    archivo = "tablaaa.json"
     usuarios = cargar_json(archivo)
 
     tabla = []
